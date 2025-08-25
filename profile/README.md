@@ -13,5 +13,5 @@ Artificial Intelligence + Software Engineering + Quantum Computing laboratory at
 ---
 
 <p align="center">
-  <img src="Hinh/Bank.png" alt="Tài Khoản Ngân Hàng" width="200"/>
+  <img src="https://github.com/AISeQLab/Level_0_KV260_FPGA/blob/main/Hinh/Bank.png" alt="Tài Khoản Ngân Hàng" width="200"/>
 </p>
