@@ -1,5 +1,6 @@
-Artificial Intelligence + Software Engineering + Quantum Computing laboratory at VNUHCM
-
+<p align="center">
+  <img style="object-fit: cover;" width="460" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
+</p>
 
 # 📬 Mọi góp ý hoặc liên hệ:
 
